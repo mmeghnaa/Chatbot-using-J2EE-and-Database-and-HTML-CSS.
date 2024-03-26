@@ -1,0 +1,31 @@
+QUESTION,ACTION
+Is your television turning on?,-
+Is your television turning on?Yes,$Is there an issue with the display?
+Is your television turning on?No,$Are the wires correctly plugged in?
+Is there an issue with the display?Yes,$Is the issue with display color?
+Is there an issue with the display?No,$Is the issue with network connectivity?
+Are the wires correctly plugged in?Yes,$Is the issue with network connectivity?
+Are the wires correctly plugged in?No,$Check the connections properly. Does the problem still exist?
+Is the issue with display color?Yes,$Was the product purchased in the last 5 years?
+Is the issue with display color?No,$Is the issue with video and audio sync?
+Is the issue with network connectivity?Yes,$Kindly contact your cable operators to resolve the issue. Do you have any other query that I can help you resolve?
+Is the issue with network connectivity?No,$Is the display color seeming different than what it should?
+Check the connections properly. Does the problem still exist?Yes,$Was the product purchased in the last 5 years?
+Check the connections properly. Does the problem still exist?No,"$Do you have any other query that I can help you resolve? 
+"
+Was the product purchased in the last 5 years?Yes,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Was the product purchased in the last 5 years?No,$Has it been serviced before?
+Is the issue with video and audio sync?Yes,$Was the product purchased in the last 5 years?
+Is the issue with video and audio sync?No,$Has it been serviced before?
+Is the display color seeming different than what it should?Yes,$Was the product purchased in the last 5 years?
+Is the display color seeming different than what it should?No,$Do you have any other query that I can help you resolve?
+Was the product purchased in the last 5 years?Yes,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Was the product purchased in the last 5 years?No,$Has it been serviced before?
+Do you have any other query that I can help you resolve?Yes,#Please restart the chatbot to query about other products
+Do you have any other query that I can help you resolve?No,#Thank you for your time and patience. Hope our conversation was satisfactory. Have a nice day ahead.
+You are eligible for free servicing. Would you like to book a schedule for the service?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+You are eligible for free servicing. Would you like to book a schedule for the service?No,$Do you have any other query that I can help you resolve?
+Has it been serviced before?Yes,$Would you like our technicians to stop by and figure out?
+Has it been serviced before?No,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Would you like our technicians to stop by and figure out?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+Would you like our technicians to stop by and figure out?No,$Do you have any other query that I can help you resolve?
