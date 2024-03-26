@@ -1,0 +1,29 @@
+QUESTION,ACTION
+Does the air cooler emit odour?,---
+Does the air cooler emit odour?Yes,"#It might be the result of either stagnant water or growth of mildew on the pads. To resolve the issue, you should regularly change water. Keep the cooling pads clean."
+Does the air cooler emit odour?No,$Is the issue regarding the motor/water pump?
+Is the issue regarding the motor/water pump?Yes,$Was the product purchased in the last 5 years?
+Is the issue regarding the motor/water pump?No,$Is there a issue with the fan?
+Is there a issue with the fan?Yes,$Was the product purchased in the last 5 years?
+Is there a issue with the fan?No,$Is water leaking from the air cooler?
+Was the product purchased in the last 5 years?Yes,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Was the product purchased in the last 5 years?No,"$Has it been serviced before? 
+"
+Is water leaking from the air cooler?Yes,"#The drain pipe may have been displaced, the grill lock disengaged, or the cooling pad may have sagged. 
+Kindly check and if the problem still persists, kindly dial 1800-123-456 for more help."
+Is water leaking from the air cooler?No,$Would you like to book a service schedule?
+You are eligible for free servicing. Would you like to book a schedule for the service?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+You are eligible for free servicing. Would you like to book a schedule for the service?No,"$Do you have any other query that I can help you resolve?  
+"
+Has it been serviced before?Yes,$Would you like our technicians to stop by and figure out?
+Has it been serviced before?No,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Do you have any other query that I can help you resolve?Yes,$Is it regarding the same product?
+Do you have any other query that I can help you resolve?No,#Thank you for your time and patience. Hope our conversation was satisfactory. Have a nice day ahead.
+Would you like our technicians to stop by and figure out?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+Would you like our technicians to stop by and figure out?No,$Do you have any other query that I can help you resolve?
+Is it regarding the same product?Yes,$Does the air cooler emit odour?
+Is it regarding the same product?No,#Please restart the chatbot to query about other products
+Do you have any other query that I can help you resolve?Yes,$Is it regarding the same product?
+Do you have any other query that I can help you resolve?No,#Thank you for your time and patience. Hope our conversation was satisfactory. Have a nice day ahead.
+Would you like to book a service schedule?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+Would you like to book a service schedule?No,$Do you have any other query that I can help you resolve?
