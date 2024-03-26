@@ -1,0 +1,27 @@
+QUESTION,ACTION
+Is there any problem with the suction force?Yes,$Is there any issue with the filter?
+Is there any problem with the suction force?No,$Is your vacuum cleaner making louder noise than usual?
+Is there any issue with the filter?Yes,$Is the filter clean and not clogged?
+Is there any issue with the filter?No,$Are you sure that your vacuum cleaner's bag is not full?
+Is your vacuum cleaner making louder noise than usual?Yes,$Are there any blockages or air leaks?
+Is your vacuum cleaner making louder noise than usual?No,$Is it getting overheated?
+Is the filter clean and not clogged?Yes,$Would you like our technicians to stop by and figure out?
+Is the filter clean and not clogged?No,"#Kindly check and if the problem still persists, kindly dial 1800-123-456 for more help."
+Are you sure that your vacuum cleaner's bag is not full?Yes,$Would you like our technicians to stop by and figure out?
+Are you sure that your vacuum cleaner's bag is not full?No,"#Kindly check and if the problem still persists, kindly dial 1800-123-456 for more help."
+Are there any blockages or air leaks?Yes,$Would you like our technicians to stop by and figure out?
+Are there any blockages or air leaks?No,"#Kindly check and if the problem still persists, kindly dial 1800-123-456 for more help."
+Is it getting overheated?Yes,$Would you like our technicians to stop by and figure out?
+Is it getting overheated?No,$Do you have any other query that I can help you resolve?
+Would you like our technicians to stop by and figure out?Yes,$Was the product purchased in the last 5 years?
+Would you like our technicians to stop by and figure out?No,$Do you have any other query that I can help you resolve?
+Was the product purchased in the last 5 years?Yes,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Do you have any other query that I can help you resolve?Yes,
+Do you have any other query that I can help you resolve?No,#Thank you for your time and patience. Hope our conversation was satisfactory. Have a nice day ahead.
+Was the product purchased in the last 5 years?No,$Has it been serviced before?
+You are eligible for free servicing. Would you like to book a schedule for the service?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+You are eligible for free servicing. Would you like to book a schedule for the service?No,$Do you have any other query that I can help you resolve?
+Has it been serviced before?Yes,"
+$Would you like our technicians to stop by and figure out? 
+"
+Has it been serviced before?No,$You are eligible for free servicing. Would you like to book a schedule for the service?

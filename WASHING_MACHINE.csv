@@ -1,0 +1,31 @@
+QUESTION,ACTION
+"On switching on the washing machine, is the power light glowing?Yes",$Is your concern with the washer door?
+"On switching on the washing machine, is the power light glowing?No",$Is it properly plugged in?
+Is your concern with the washer door?Yes,$Was the product purchased in the last 5 years?
+Is your concern with the washer door?No,$Is your concern with draining?
+Is it properly plugged in?Yes,$Was the product purchased in the last 5 years?
+Is it properly plugged in?No,"#Kindly check and if the problem still persists, kindly dial 1800-123-456 for more help."
+Was the product purchased in the last 5 years?Yes,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Was the product purchased in the last 5 years?No,$Has it been serviced before?
+Is your concern with draining?Yes,"#If your washing machine doesn’t drain properly, you may have a blockage in the washing machine’s draining system. 
+1.Check the filter for debris. 
+2. Remove any blockages you find. 
+Set your washing machine on a short wash/rinse cycle to check for blockages. If the block has been successfully cleared then the water will drain away. If the problem still persists, kindly dial 1800-123-456 for more help."
+Is your concern with draining?No,$Is the washer drum not working?
+You are eligible for free servicing. Would you like to book a schedule for the service?Yes,"*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.: 
+"
+You are eligible for free servicing. Would you like to book a schedule for the service?No,"$Do you have any other query that I can help you resolve? 
+"
+Has it been serviced before?Yes,$Would you like our technicians to stop by and figure out?
+Has it been serviced before?No,$You are eligible for free servicing. Would you like to book a schedule for the service?
+Is the washer drum not working?Yes,$Would you like our technicians to stop by and figure out?
+Is the washer drum not working?No,$Is the washing machine spin noise louder than usual?
+Do you have any other query that I can help you resolve?Yes,$Is it regarding the same product?
+Do you have any other query that I can help you resolve?No,#Thank you for your time and patience. Hope our conversation was satisfactory. Have a nice day ahead.
+Would you like our technicians to stop by and figure out?Yes,*Our technicians will reach you shortly. Your customer support request is successfully registered under Token No.:
+Would you like our technicians to stop by and figure out?No,$Do you have any other query that I can help you resolve?
+Is the washing machine spin noise louder than usual?Yes,$Was the product purchased in the last 5 years?
+Is the washing machine spin noise louder than usual?No,"$Do you have any other query that I can help you resolve? 
+"
+Is it regarding the same product?Yes,"$On switching on the washing machine, is the power light glowing?"
+Is it regarding the same product?No,
